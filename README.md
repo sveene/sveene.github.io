@@ -11,7 +11,7 @@ This presentation is done as part of the final course project for 'Developing Da
 
 The web application is hosted on the link below:
 
-[Reproducible Pitch](https://github.com/sveene/sveene.github.io/blob/master/Reproducible_Pitch.html)
+[Reproducible Pitch](https://sveene.neocities.org/Reproducible_Pitch.html)
 
 
 
