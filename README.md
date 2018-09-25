@@ -1,7 +1,7 @@
-## Choose Your Car
+Choose Your Car
 ========================================================
-# author: Veene
-# date: September 25, 2018
+author: Veene
+date: September 25, 2018
 autosize: true
 
 Introduction
