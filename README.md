@@ -11,7 +11,7 @@ This presentation is done as part of the final course project for 'Developing Da
 
 The web application is hosted on the link below:
 
-https://yashkrsingh.shinyapps.io/ChooseYourCar/
+[https://yashkrsingh.shinyapps.io/ChooseYourCar/]
 
 
 Application Overview
