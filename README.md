@@ -1,13 +1,22 @@
-Choose Your Car
+Shiny Application & Reproducible Pitch Projects
 ========================================================
 author: Veene
 date: September 25, 2018
 autosize: true
 
-Introduction
+Reproducible Pitch 
 ========================================================
 
 This presentation is done as part of the final course project for 'Developing Data Products' course in the Data Science Specialization track by John Hopkins University on Coursera.
+
+The web application is hosted on the link below:
+
+[Reproducible Pitch](https://sveene.shinyapps.io/ChooseYourCar/)
+
+
+
+Shiny Application - Choose your car
+========================================================
 
 The web application is hosted on the link below:
 
