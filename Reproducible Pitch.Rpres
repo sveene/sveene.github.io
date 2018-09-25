@@ -1,6 +1,6 @@
 ShinyApp Pitch for "Basic Introduction to ggplot2"
 ========================================================
-author: Suresh Babu Kumpati using `r sprintf("%s and knitr version %s", 
+author: Veene using `r sprintf("%s and knitr version %s", 
   R.version.string, packageVersion("knitr"))`
 date: `r format(Sys.time(), "%B %d, %Y")`
 transition: rotate
