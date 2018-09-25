@@ -1,7 +1,7 @@
 ---
 title: "ShinyApp Pitch for Basic Introduction to ggplot2"
-author: "Suresh Babu kumpati"
-date: "May 8, 2016"
+author: "Veene"
+date: "September 25, 2018"
 output: html_document
 transition: rotate
 incremental: true
@@ -38,7 +38,5 @@ g = ggplot(mpg, aes(x=cyl, y=hwy, colour=class)) + facet_wrap(~drv) + geom_point
 Try the ShinyApp - Basic Introduction to ggplot2 Today!
 ========================================================
 
-- Deployed at [https://skumpati.shinyapps.io/ShinyProject/](https://skumpati.shinyapps.io/ShinyProject/)
 
-- Code available at: [https://github.com/skumpati/Shiny-App-and-Reproducible-Pitch](https://github.com/skumpati/Shiny-App-and-Reproducible-Pitch) 
 
